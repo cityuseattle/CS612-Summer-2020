@@ -3,9 +3,9 @@
 ### Clone a repository
 1. On GitHub, navigate to the main page of the repository.
 1. Above the list of files, click green "Code" button.
-- To clone the repository using HTTPS, under "Clone with HTTPS", click copy icon.
-- Open Terminal.
-- Change the current working directory to the location where you want the cloned directory.
-- Type git clone, and then paste the URL you copied earlier.
+1. To clone the repository using HTTPS, under "Clone with HTTPS", click copy icon.
+1. Open Terminal.
+1. Change the current working directory to the location where you want the cloned directory.
+1. Type git clone, and then paste the URL you copied earlier.
 
     ```$ git clone https://github.com/cityuseattle/CS612-Summer-2020.git```
