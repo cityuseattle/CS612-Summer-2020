@@ -8,4 +8,5 @@
 - Change the current working directory to the location where you want the cloned directory.
 - Type git clone, and then paste the URL you copied earlier.
 
-  $ git clone https://github.com/cityuseattle/CS612-Summer-2020.git
+
+    $ git clone https://github.com/cityuseattle/CS612-Summer-2020.git
