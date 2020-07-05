@@ -14,6 +14,9 @@
     ```
     $ cd CS612-Summer-2020
     ```
+1. Then, go to **IN** directory if you enrolled in an in-class section, otherwise **ON** directory
 1. Type **code .** to open VS Code
-1. Then, go to **IN** directory if you enrolled in an in-class section, otherwis **ON** directory
+    ```
+    $ code .
+    ```
 1. Create new directory with yourname (LastnameFirstname).
