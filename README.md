@@ -3,6 +3,8 @@
 ### Clone a repository
 1. On GitHub, navigate to the main page of the repository.
 1. Above the list of files, click green "Code" button.
+<button class="button" type="submit">Post comment (button)</button>
+[button url="http://www.google.com"]
 1. To clone the repository using HTTPS, under "Clone with HTTPS", click copy icon.
 1. Open Terminal.
 1. Change the current working directory to the location where you want the cloned directory.
