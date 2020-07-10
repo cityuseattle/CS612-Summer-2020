@@ -11,3 +11,8 @@ while var >0:
     if var == 5:
         break
 print("Good bye!")
+
+a = 3
+b = 3
+print(a^b)
+print(a*b)
