@@ -1,4 +1,4 @@
-cout = 0
+count = 0
 while  count < 5:
     print (count, " is less than 5")
     cout = count + 1
