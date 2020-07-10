@@ -1,5 +1,4 @@
-
-#Function Name: GetFibonacciSequence Param:SequenceNumber Type:Integer
+#function GetFibonacciSequence Param: integer SequenceNumber
 def GetFibonacciSequence(SequenceNumber): 
     
     #Get the current length of the existing fibonnacci list
