@@ -3,15 +3,9 @@ def GetFibonacciSequence(SequenceNumber):
     
     #Get the current length of the existing fibonnacci list
     Length=len(CacheFibonacci)
-    
-    #Minimal number allowed in Fibonacci is 0
-    if SequenceNumber<0: 
-        
-        #Display the error on console
-        print("Incorrect input") 
         
     #Number is lower than list length  
-    elif SequenceNumber<=Length:
+    if SequenceNumber<=Length:
         
         #Return the current fibonacci list for edge
         return CacheFibonacci[SequenceNumber-1] 
