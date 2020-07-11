@@ -3,7 +3,7 @@ b = 20
 
 list = [1,2,3,4,5]
 
-if a in list:
+if a is b:
     print ("Line 1 - a and b have same identity")
 else:
     print ("Line 1 - a and b do not have same identity")
