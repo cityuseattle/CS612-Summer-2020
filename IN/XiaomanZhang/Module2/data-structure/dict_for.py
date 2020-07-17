@@ -5,5 +5,5 @@ aliens = [alien0, alien1]
 
 #accessing key, value
 for i in aliens:
-    for keys in i.items():
-        print("KEY:", key)
+    for key,value in i.items():
+        print("KEY:", key,"\t", "VALUE:", value)
