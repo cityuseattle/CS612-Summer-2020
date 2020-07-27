@@ -7,7 +7,7 @@ for letter in 'Python':
 print("\nWhile-Continue")
 var = 10
 while var > 0:
-    var = var -1
+    var = var -1        
     if var == 5:
         continue
     print ('Current variable value :', var)
