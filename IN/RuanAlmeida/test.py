@@ -1,5 +1,2 @@
-x = 0 
-if bool(x):    
-    print(x) 
-else:     
-    print(5) 
+x = 'Pi Py Python' 
+print(x.startswith('p')) 
