@@ -1,2 +1,3 @@
-x = 'Pi Py Python' 
-print(x.startswith('p')) 
+x = ['a', 'b', 'c', 'A', 'B', 'C'] 
+x.sort(key=str.swapcase) 
+print(x) 
