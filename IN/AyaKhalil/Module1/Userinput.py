@@ -1,0 +1,6 @@
+name= input("please enter your name")
+print("\n welcome to python"+name)
+print("Type of variable", type(name))
+age=input("\n Enter your age")
+print("\n your age is"+age)
+print("Type of variable age", type(age))
